@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1b6ed09c-e95d-4f33-af94-bdca7aa6076c",
+  "export_job_id": "fed802a8-2e8d-4cc9-8747-bea1ebfe3b9c",
   "id_short": 912448,
-  "published_at": "2026-04-16T19:27:08Z",
+  "published_at": "2026-04-19T07:53:46Z",
   "repo_name": "tech-ready-restaurants-in-the-providence-warwick-metro-area-ri-ma-us-sample-912448",
   "sample_asset_name": "beamstation_912448_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/912448/beamstation_912448_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
   "sample_records": 1,
   "sample_sha256": "a8d06ecdcb8c812f9033b2144fa3a66e511a135edb89dab1ddacc0746c990a5a",
   "sample_size_bytes": 20100,
-  "total_records": 17
+  "total_records": 14
 }
