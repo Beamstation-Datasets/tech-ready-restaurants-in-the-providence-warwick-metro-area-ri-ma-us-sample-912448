@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Providence-Warwick Metro Area, RI-MA, US",
-  "export_job_id": "7cb89730-0280-4865-9570-2e7e3bc31855",
+  "export_job_id": "dff9b7ff-62c4-49c3-8a7a-7bb4053d1d12",
   "github_org": "Beamstation-Datasets",
   "id_short": 912448,
   "location_name": "Providence-Warwick, RI-MA",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-providence-warwick-metro-area-ri-ma-us-sample-912448",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/912448/beamstation_912448_restaurants-us-providencewarwickrima_SAMPLE_DIST.csv",
-  "sample_pct": 12.5,
+  "sample_pct": 6.67,
   "sample_records": 1,
-  "sample_sha256": "b3dc5837a92214f50e5efd963cb8ffac68d0d83850b6abcd06483248606fe1cf",
-  "sample_size_bytes": 20100,
-  "total_records": 8,
-  "updated_at": "2026-04-22T15:44:35.835301+00:00"
+  "sample_sha256": "961c69f73ba3ca0e215d5f110ff6fce52f7c626056f9edee22bc2b9350fea141",
+  "sample_size_bytes": 20219,
+  "total_records": 15,
+  "updated_at": "2026-04-29T15:51:57.932835+00:00"
 }
